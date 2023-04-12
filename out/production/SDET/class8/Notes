@@ -1,0 +1,11 @@
+Loops:
+Loops help us repeat a piece of code until a condition becomes false.
+There are 4 main types of loop 1.) While loop 2.) For loop 3.) Do enhanced for loop
+Why should we use loops?
+loops can help us avoid duplicate code.
+Syntax for while loop:
+while(condition){
+code that we want to repeat
+}
+
+Syntax for For loop
