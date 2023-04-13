@@ -10,7 +10,7 @@ public class HW6 {
         int num=22;
         for(int i=0; i<numbers.length; i++) {
             numbers[i] = num;
-            num=num+num;
+            num+=num;
         }
         for (int number : numbers) {
             System.out.println(number);

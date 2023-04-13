@@ -5,11 +5,15 @@ public class HW7 {
         /* From an array of integer elements find the largest number.
 
          */
-        int[]numbers={10,50,90,85};
-        int largest=numbers[0];
-        for(int i=0; i<= numbers.length-2; i++) {
-            largest = numbers[i];
+        int[] numbers = {10, 50, 90, 85};
+        // enhanced for loop
+        int largest = numbers[0];
+        for (int num : numbers) {
+            if (num > largest) {
+                largest = num;
+            }
         }
-            System.out.println(largest);
-        }
+        System.out.println(largest);
     }
+}
+

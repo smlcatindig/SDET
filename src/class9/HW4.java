@@ -7,6 +7,10 @@ public class HW4 {
          */
 
         String[]car={"BMW", "Benz", "Corvette", "Audi", "Rover","Porsche"};
+        for (String cars: car){
+            System.out.println(cars+" ");
+        }
+        System.out.println();
         for(int n=0; n<car.length; n++){
             System.out.println(car[n]);
         }
