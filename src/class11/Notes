@@ -1,0 +1,26 @@
+2D Arrays
+Approach 1:
+data type[][] variableName=new data type[size of rows][size of columns]
+Approach 2:
+data type[][] variableName={
+                            {element 1, element 2, element 3},
+                            {element 4, element 5, element 6}
+
+                            };
+
+------------------------------------------------------------------------------------
+Object oriented programming:
+Object oriented programming also known as OOPs is nothing but some set of rules
+that if we follow we will have below benefits. There are five main concepts that we will be learning:
+Classes and Objects
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+-code will be organized
+-code repetition will be minimized
+-changing the code will become easier
+-it will become easier to write code by multiple team members
+-security of your application will increase
+-writing code for larger applications will become easy
+-it will help us represent the world around us easily
